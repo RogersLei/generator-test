@@ -1,0 +1,25 @@
+{
+  "name": "generator-test",
+  "version": "1.0.0",
+  "description": "Own Generator",
+  "files": [
+    "generators"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/RogersLei/OwnGenerator.git\""
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Rogers",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.8.1",
+    "yeoman-generator": "^2.0.3"
+  }
+}
